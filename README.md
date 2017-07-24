@@ -10,7 +10,7 @@ This game constantly under development and is yet very far from perfect, but sti
 
 The player controls a ball in a three dimensional world that is moved to collect randomnly spawning coins while navigating through obstacles.
 All this while, contact with enemy boxes needs to be avoided. The enemies can only be destroyed by bringing them in contact with each other.
-The game finished when the players falls off the stage, or touches an enemy box.
+The game finishes when the players falls off the stage, or touches an enemy box.
 
 ## How to play
 I have included a **WebGL** build for people to run on their browsers.
